@@ -4,15 +4,15 @@
            failures="0"
            errors="0"
            skipped="1"
-           time="13.250">
+           time="13.668">
   <properties />
   
             <testcase name="addCustomerTest" time="0.0" classname="atmecs.testcases.AddCustomerTest">
           <skipped />
     </testcase>
   
-            <testcase name="addCustomerTest" time="4.349" classname="atmecs.testcases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="4.535" classname="atmecs.testcases.AddCustomerTest" />
-                <testcase name="addCustomerTest" time="4.365" classname="atmecs.testcases.AddCustomerTest" />
+            <testcase name="addCustomerTest" time="4.857" classname="atmecs.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="4.403" classname="atmecs.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="4.407" classname="atmecs.testcases.AddCustomerTest" />
       
 </testsuite>

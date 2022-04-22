@@ -4,13 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe6265d2-655d-4374-aff3-09f53c950121" name="Changes" comment="" />
+    <list default="true" id="fe6265d2-655d-4374-aff3-09f53c950121" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/atmecs/utilities/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/atmecs/utilities/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/runner/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/runner/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.AddCustomerTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.AddCustomerTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.BankManagerLoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.BankManagerLoginTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.OpenAccountTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/atmecs.testcases.OpenAccountTest_results.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="27yNC8ndDg66LxVESWSq8nW0AqR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,5 +121,17 @@
       <updated>1650288244971</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
