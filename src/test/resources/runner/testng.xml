@@ -22,10 +22,10 @@
 		</classes>
 	</test> <!-- Test -->
 	
-		<!--test name="Open Account Test">
+		<test name="Open Account Test">
 		<classes>
 			<class name="atmecs.testcases.OpenAccountTest" />
 		</classes>
-	</test--> <!-- Test -->
+	</test> <!-- Test -->
 	
 </suite> <!-- Suite -->
